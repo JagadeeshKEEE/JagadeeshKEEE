@@ -35,7 +35,7 @@
 
 ###
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-339%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-339%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-277%20lines%20of%20code-blue)
 
@@ -56,17 +56,12 @@ VS Code                  16 hrs 46 mins      ███████████�
 Neovim                   3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 Chrome                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 PyCharm                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-```
 
-**I Mostly Code in Python** 
-
-```text
-Python                   2 repos             █████████████████░░░░░░░░   66.67 % 
-Shell                    1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+💻 Operating System: 
+Windows                  18 hrs 26 mins      █████████████████████░░░░   85.82 % 
+Linux                    3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 ```
 
 
-
-
- Last Updated on 20/10/2024 10:50:30 UTC
+ Last Updated on 20/10/2024 11:10:36 UTC
 <!--END_SECTION:waka-->
