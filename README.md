@@ -1,4 +1,4 @@
-<p align="left">Hi, I am Jagadeesh 👾👾, Front-End Developer</p>
+<p align="left">Hi, I am Jagadeesh 👾👾, Python Developer and Front-End Developer</p>
 
 ###
 
@@ -34,3 +34,10 @@
 </div>
 
 ###
+<!--START_SECTION:waka-->
+
+
+
+
+
+<!--END_SECTION:waka-->
