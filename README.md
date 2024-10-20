@@ -1,4 +1,4 @@
-<p align="left">Hi, I am Jagadeesh 👾👾, Python Developer and Front-End Developer</p>
+<p align="left">Hi, I am Jagadeesh 👾👾, Python Developer and Front-End Developer </p>
 
 ###
 
