@@ -35,27 +35,10 @@
 
 ###
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-970%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    6 hrs 50 mins       █████████████░░░░░░░░░░░░   51.16 % 
-C#                       2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Go                       1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-HTML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Lua                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-
-💻 Operating System: 
-Linux                    8 hrs 27 mins       ████████████████░░░░░░░░░   63.28 % 
-Windows                  4 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.72 % 
-```
-
-
- Last Updated on 16/11/2024 18:10:21 UTC
+ Last Updated on 16/11/2024 18:35:26 UTC
 <!--END_SECTION:waka-->
