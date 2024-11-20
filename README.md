@@ -35,7 +35,7 @@
 
 ###
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-970%20lines%20of%20code-blue)
 
@@ -57,5 +57,5 @@ Windows                  7 hrs 58 mins       ███████████�
 ```
 
 
- Last Updated on 20/11/2024 15:59:04 UTC
+ Last Updated on 20/11/2024 16:32:58 UTC
 <!--END_SECTION:waka-->
