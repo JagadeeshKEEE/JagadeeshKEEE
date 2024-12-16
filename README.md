@@ -35,7 +35,7 @@
 
 ###
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-970%20lines%20of%20code-blue)
 
@@ -57,5 +57,5 @@ Linux                    3 hrs 38 mins       █████████░░�
 ```
 
 
- Last Updated on 16/12/2024 05:12:16 UTC
+ Last Updated on 16/12/2024 05:35:48 UTC
 <!--END_SECTION:waka-->
