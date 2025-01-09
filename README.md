@@ -35,8 +35,6 @@
 
 ###
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%2023%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-970%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -57,5 +55,5 @@ Linux                    1 hr 28 mins        ██████████░�
 ```
 
 
- Last Updated on 09/01/2025 18:29:07 UTC
+ Last Updated on 09/01/2025 18:47:18 UTC
 <!--END_SECTION:waka-->
