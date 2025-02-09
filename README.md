@@ -45,14 +45,12 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-fish                     15 mins             ███████████████░░░░░░░░░░   58.96 % 
-Bash                     7 mins              ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-conf                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/02/2025 18:43:11 UTC
+ Last Updated on 09/02/2025 18:56:06 UTC
 <!--END_SECTION:waka-->
