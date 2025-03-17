@@ -39,20 +39,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-970%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    3 hrs 39 mins       ██████████████████████░░░   88.23 % 
-dot file                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-
-💻 Operating System: 
-Windows                  4 hrs 8 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 17/03/2025 18:33:29 UTC
+ Last Updated on 17/03/2025 18:50:00 UTC
 <!--END_SECTION:waka-->
