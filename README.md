@@ -35,7 +35,7 @@
 
 ###
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-970%20lines%20of%20code-blue)
 
@@ -45,14 +45,12 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    23 mins             █████████████░░░░░░░░░░░░   53.82 % 
-dot file                 19 mins             ███████████░░░░░░░░░░░░░░   45.57 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Other                    25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/03/2025 18:31:16 UTC
+ Last Updated on 23/03/2025 18:46:42 UTC
 <!--END_SECTION:waka-->
