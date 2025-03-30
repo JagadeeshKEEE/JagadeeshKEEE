@@ -45,12 +45,12 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/03/2025 18:40:25 UTC
+ Last Updated on 30/03/2025 18:53:00 UTC
 <!--END_SECTION:waka-->
