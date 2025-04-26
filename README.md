@@ -35,7 +35,7 @@
 
 ###
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-970%20lines%20of%20code-blue)
 
@@ -45,12 +45,12 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Crontab                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/04/2025 18:39:37 UTC
+ Last Updated on 26/04/2025 18:52:19 UTC
 <!--END_SECTION:waka-->
