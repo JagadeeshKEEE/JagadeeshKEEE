@@ -19,13 +19,12 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   12 mins             ██████████████████░░░░░░░   71.65 % 
-Cython                   4 mins              ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/07/2025 18:51:10 UTC
+ Last Updated on 28/07/2025 19:16:21 UTC
 <!--END_SECTION:waka-->
