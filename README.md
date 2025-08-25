@@ -19,12 +19,12 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/08/2025 18:44:59 UTC
+ Last Updated on 25/08/2025 18:58:28 UTC
 <!--END_SECTION:waka-->
