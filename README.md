@@ -19,13 +19,12 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               15 mins             ████████████████████░░░░░   78.51 % 
-HTML                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/09/2025 18:39:21 UTC
+ Last Updated on 12/09/2025 18:52:19 UTC
 <!--END_SECTION:waka-->
