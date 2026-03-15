@@ -19,15 +19,15 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    4 hrs 11 mins       ████████████████████░░░░░   81.80 % 
-Rust                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-dot                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    4 hrs 4 mins        ████████████████████░░░░░   81.37 % 
+Rust                     55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+dot                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Linux                    4 hrs 9 mins        ████████████████████░░░░░   81.31 % 
-Windows                  57 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Linux                    4 hrs 2 mins        ████████████████████░░░░░   80.87 % 
+Windows                  57 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
 ```
 
 
- Last Updated on 15/03/2026 19:04:09 UTC
+ Last Updated on 15/03/2026 19:40:22 UTC
 <!--END_SECTION:waka-->
