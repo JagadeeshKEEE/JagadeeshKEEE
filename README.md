@@ -19,17 +19,17 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    4 hrs 34 mins       █████████████████████░░░░   84.94 % 
-Python                   45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Lua                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    2 hrs 35 mins       ███████████████████░░░░░░   76.17 % 
+Python                   45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+Lua                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  3 hrs 50 mins       ██████████████████░░░░░░░   71.17 % 
-Linux                    1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+Windows                  1 hr 51 mins        ██████████████░░░░░░░░░░░   54.36 % 
+Linux                    1 hr 33 mins        ███████████░░░░░░░░░░░░░░   45.64 % 
 ```
 
 
- Last Updated on 10/05/2026 19:20:42 UTC
+ Last Updated on 10/05/2026 20:08:39 UTC
 <!--END_SECTION:waka-->
