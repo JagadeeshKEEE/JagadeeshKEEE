@@ -22,10 +22,9 @@
 Other                    30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    30 mins             █████████████████████████   99.98 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Linux                    30 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/05/2026 18:39:54 UTC
+ Last Updated on 31/05/2026 19:54:43 UTC
 <!--END_SECTION:waka-->
