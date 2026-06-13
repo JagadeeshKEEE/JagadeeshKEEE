@@ -19,13 +19,13 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    2 hrs 19 mins       █████████████████████████   100.00 % 
+Other                    1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        ████████████████████░░░░░   78.90 % 
-Linux                    29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Windows                  39 mins             ██████████████░░░░░░░░░░░   57.15 % 
+Linux                    29 mins             ███████████░░░░░░░░░░░░░░   42.85 % 
 ```
 
 
- Last Updated on 13/06/2026 19:51:51 UTC
+ Last Updated on 13/06/2026 21:12:59 UTC
 <!--END_SECTION:waka-->
