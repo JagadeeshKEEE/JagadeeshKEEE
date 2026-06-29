@@ -19,15 +19,14 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    10 hrs 29 mins      ████████████████████████░   97.47 % 
-hyprlang                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-INI                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Other                    8 hrs 36 mins       █████████████████████████   98.69 % 
+INI                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Linux                    10 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/06/2026 20:25:01 UTC
+ Last Updated on 29/06/2026 21:53:03 UTC
 <!--END_SECTION:waka-->
