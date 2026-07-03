@@ -19,14 +19,12 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 32 mins       █████████████████████████   98.28 % 
-INI                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Other                    1 hr 57 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/07/2026 18:53:04 UTC
+ Last Updated on 03/07/2026 20:13:48 UTC
 <!--END_SECTION:waka-->
