@@ -23,8 +23,8 @@ Other                    3 hrs 3 mins        ███████████�
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Linux                    2 hrs 40 mins       ██████████████████████░░░   87.27 % 
-Windows                  23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Linux                    2 hrs 40 mins       ██████████████████████░░░   87.08 % 
+Windows                  23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -34,5 +34,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/07/2026 19:36:36 UTC
+ Last Updated on 28/07/2026 20:47:23 UTC
 <!--END_SECTION:waka-->
