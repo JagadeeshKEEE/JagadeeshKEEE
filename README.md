@@ -19,11 +19,11 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 49 mins        █████████████████████████   100.00 % 
+Other                    1 hr 26 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 2 mins         ██████████████░░░░░░░░░░░   57.24 % 
-Windows                  46 mins             ███████████░░░░░░░░░░░░░░   42.76 % 
+Linux                    1 hr 2 mins         ██████████████████░░░░░░░   72.54 % 
+Windows                  23 mins             ███████░░░░░░░░░░░░░░░░░░   27.46 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -33,5 +33,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/08/2026 17:59:19 UTC
+ Last Updated on 31/08/2026 22:45:38 UTC
 <!--END_SECTION:waka-->
