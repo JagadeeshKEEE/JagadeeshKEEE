@@ -19,14 +19,14 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    4 hrs 1 min         ██████████████████░░░░░░░   71.84 % 
-Lua                      1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-hyprlang                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-D                        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-conf                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Other                    3 hrs 27 mins       █████████████████░░░░░░░░   68.71 % 
+Lua                      1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+hyprlang                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+D                        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+conf                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Linux                    5 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -36,5 +36,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 04/10/2026 20:11:08 UTC
+ Last Updated on 04/10/2026 23:13:56 UTC
 <!--END_SECTION:waka-->
